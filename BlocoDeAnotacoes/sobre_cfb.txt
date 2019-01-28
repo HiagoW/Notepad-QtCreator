@@ -1,0 +1,5 @@
+Na aula de hoje do nosso curso de QT Creator vamos continuar na criação do nosso bloco de notas no Qt Creator, nosso primeiro programa completo, este vídeo é a parte 2.
+
+O Qt Creator é muito mais do que apenas um SDK de cross-plataform, é uma estratégia de tecnologia que permite projetar, desenvolver, implantar e manter software com rapidez e economia, além de oferecer uma experiência de usuário perfeita em todos os dispositivos.
+Em nosso curso iremos usar C++ como linguagem de programção, mas este excelente frameword também trabalha com outras linguagens como python, java, etc...
+Crie interfaces de usuário, aplicativos e dispositivos integrados fluidos, de alto desempenho e intuitivos, com a mesma base de código para todas as plataformas.
